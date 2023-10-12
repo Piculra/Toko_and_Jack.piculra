@@ -1,0 +1,88 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "toko.and.jack.piculra",
+    "packId": "toko.and.jack.piculra",
+    "packCredits": "Sprites from Danganronpa, content pack assembled by Piculra",
+    "packName": "Toko and Jack",
+    "source": "https://www.spriters-resource.com/pc_computer/danganronpatriggerhappyhavoc/",
+    "authors": [
+        "Spike Chunsoft",
+        "Piculra"
+    ],
+    "name": "Toko and Jack",
+    "internalId": "Toko and Jack",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "Toko",
+            "label": "Toko"
+        },
+        {
+            "name": "Jack",
+            "label": "Jack"
+        }
+    ],
+    "heads": {
+        "Toko": [
+            "./1t.png",
+            "./2t.png",
+            "./3t.png",
+            "./4t.png",
+            "./5t.png",
+            "./6t.png",
+            "./7t.png",
+            "./8t.png",
+            "./9t.png",
+            "./10t.png",
+            "./11t.png",
+            "./12t.png",
+            "./13t.png",
+            "./14t.png",
+            "./15t.png",
+            "./16t.png",
+            "./17t.png"
+        ],
+        "Jack": [
+            "./1j.png",
+            "./2j.png",
+            "./3j.png",
+            "./4j.png",
+            "./5j.png",
+            "./6j.png",
+            "./7j.png",
+            "./8j.png",
+            "./9j.png",
+            "./10j.png",
+            "./11j.png",
+            "./12j.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Toko",
+            "style": "Toko",
+            "compatibleHeads": [
+                "Toko"
+            ],
+	    "left": [
+		"./bodyl.png"
+	    ],
+	    "right": [
+		"./bodyr.png"
+	    ]
+        },
+        {
+            "name": "Jack",
+            "style": "Jack",
+            "compatibleHeads": [
+                "Jack"
+            ],
+	    "left": [
+		"./bodyl.png"
+	    ],
+	    "right": [
+		"./bodyr.png"
+	    ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "pack": {
+        "id": "Toko_and_Jack.piculra",
+        "name": "Toko and Jack",
+        "characters": [
+            "Toko",
+            "Jack"
+        ],
+        "authors": [
+            "Spike Chunsoft",
+            "Piculra"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "source": "https://www.spriters-resource.com/pc_computer/danganronpatriggerhappyhavoc/",
+        "dddg2Path": "http://localhost:4716/repo/Toko.and.Jack/index.json",
+        "description": "Art from Danganronpa, content pack assembled by Piculra",
+        "preview": [
+            "http://localhost:4716/repo/Toko.and.Jack/1t.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {
+        "Piculra": {
+            "reddit": "Piculra"
+        }
+    }
+}
